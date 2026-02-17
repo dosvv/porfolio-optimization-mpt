@@ -13,6 +13,8 @@ $$S_p = \frac{E[R_p]-R_f}{\sigma_p}$$
 
 where we assume $R_f = 0$
 
+![Efficient Frontier](frontier.png)
+
 ## Mathematical Foundation
 Let $\mathbf{w} \in \mathbb{R}^n$ denote the portfolio weight vector satisfying:
 
